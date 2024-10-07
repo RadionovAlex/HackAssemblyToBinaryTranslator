@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackAssemblyToBinaryTranslator", "HackAssemblyToBinaryTranslator\HackAssemblyToBinaryTranslator.csproj", "{F210E16B-B6C1-4179-951E-06935A004D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F210E16B-B6C1-4179-951E-06935A004D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F210E16B-B6C1-4179-951E-06935A004D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F210E16B-B6C1-4179-951E-06935A004D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F210E16B-B6C1-4179-951E-06935A004D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86455F58-18BB-4340-9099-BB5C9DA01E9A}
+	EndGlobalSection
+EndGlobal

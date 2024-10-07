@@ -1,0 +1,7 @@
+﻿* divide string to List<string> - get all not empty, not commented  rows
+  so List<string>(string)
+* read all pseudocommands, write their keyValue to table and remove them from list
+  so List<string>(List<string>()). 
+  Validation: there is shouldn`t be any duplication of same Pseudocommands. 
+  If there is - fail validation.
+* 
